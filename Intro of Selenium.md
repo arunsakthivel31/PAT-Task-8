@@ -20,7 +20,7 @@ In conclusion, Selenium is a powerful and essential tool for web automation test
 ### Conclusion
 
 ``Reason for using Selenium :``
-Open-Source and Cost-Effective -- Selenium is free and open-source, so it reduces testing costs for organizations.
+[Open-Source and Cost-Effective -- Selenium is free and open-source, so it reduces testing costs for organizations.]
 Cross-Browser and Cross-Platform Compatibility -- Selenium runs the same test across different browsers and operating systems to ensure consistent application behavior.
 Multiple Language Support -- Selenium allows automation scripts to be written in different programming languages, making it easy for users to work with familiar languages.
 Integration with Other Tools -- Selenium is not an all-in-one platform, but it easily integrates with many third-party tools and frameworks for extended functionality.
